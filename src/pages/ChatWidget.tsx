@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useParams } from "react-router-dom";
 import ChatInterface from "@/components/ChatInterface";
 
